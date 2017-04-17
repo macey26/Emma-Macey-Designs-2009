@@ -1,0 +1,401 @@
+#wrap {
+	margin: 0px;
+	padding: 5px;
+	width: 960px;
+	height: 800px;
+	background-position: center top;
+}
+#txtSpaceHome {
+	float: left;
+	height: 1460px;
+	width: 744px;
+	background-image: url(images/homecontent);
+	text-align: left;
+	text-indent: 13px;
+	background-repeat: no-repeat;
+	color: #000;
+	text-decoration: none;
+}
+
+
+
+
+#logo {
+	height: 228px;
+	width: 744px;
+	float: left;
+}
+#sidebar {
+	float: right;
+	height: 556px;
+	width: 216px;
+	padding-top: 4px;
+}
+#sidebar2 {
+	background-image: url(images/sideFace2.jpg);
+	margin: 0px;
+	padding: 0px;
+	height: 2000px;
+}
+
+#footer {
+	background-image: url(images/footer.jpg);
+	background-repeat: no-repeat;
+	text-align: justify;
+	text-indent: 10px;
+	height: 58px;
+	width: 960px;
+}
+#footText {
+	height: 35px;
+	width: 560px;
+	padding-top: 3px;
+	padding-right: 15px;
+	padding-bottom: 15px;
+	padding-left: 0px;
+	text-indent: 20px;
+}
+
+#txtSpacePortfolio {
+	float: left;
+	height: 363px;
+	width: 744px;
+
+	background-image: url(images/emmas-interface_portfolio_03%20(2)
+.jpg);
+	padding: 0px;
+	text-align: left;
+}
+#portfolio {
+	text-indent: 110px;
+	margin: 0px;
+	float: none;
+	height: 200px;
+	width: 744px;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	background-image: url(images/emmas-interface_portfolio_03%20(2)
+.jpg);
+	background-repeat: no-repeat;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	background-image: url(images/emmas-interface_portfolio_03%20(2)
+.jpg);
+	background-image: url(images/emmas-interface_portfolio_07%20copy.jpg);
+}
+
+#portfoliotxt {
+	padding-top: 20px;
+	padding-right: 100px;
+	padding-bottom: 80px;
+	padding-left: 100px;
+}
+#txtSpaceFavourites {
+	float: left;
+	height: 363px;
+	width: 744px;
+	background-image: url(images/emmas-interface_favorites_05.gif);
+	padding: 0px;
+	background-repeat: no-repeat;
+	text-align: left;
+}
+#txtSpaceContact {
+	float: left;
+	height: 363px;
+	width: 744px;
+	background-image: url(images/emmas-interface_contact_03.png);
+	padding: 0px;
+	text-align: left;
+}
+#sitemap content {
+	margin: 25px;
+	padding-top: 300px;
+	padding-right: 120px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	text-align: left;
+	text-indent: 50;
+}
+
+#contactTxt {
+	margin: 0px;
+	height: 360px;
+	width: 744px;
+	padding-top: 60px;
+	padding-right: 20px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+}
+favtxt {
+	height: 2500px;
+	width: 744px;
+	padding-top: 300px;
+	padding-right: 400px;
+	padding-bottom: 0px;
+	padding-left: 2000px;
+	margin-top: 200px;
+	margin-right: 50px;
+	margin-bottom: 0px;
+	margin-left: 100px;
+	text-align: right;
+	text-indent: 200px;
+	vertical-align: sub;
+}
+
+#txtSpaceSitemap {
+	float: left;
+	height: 363px;
+	width: 744px;
+	background-image: url(images/emmas-interface_sitemap_06.jpg);
+	padding: 0px;
+	text-align: left;
+}
+#footer #footText .style3 a {
+	color: #000;
+	text-decoration: none;
+}
+#txtSpaceGraphic {
+	float: left;
+	height: 700px;
+	width: 744px;
+	padding: 0px;
+}
+#sidebar2 {
+	float: right;
+	height: 1024px;
+	width: 216px;
+	padding-top: 6px;
+	background-image: url(images/sideFace.jpg);
+	background-repeat: no-repeat;
+}
+#graphicDesign {
+	background-image: url(images/emmas-interface_portfolio_05.jpg);
+	height: 100px;
+	width: 744px;
+	background-repeat: repeat;
+	margin: 0px;
+	padding-top: 100px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+}
+#Jetty Bunker {
+	float: left;
+	height: 200px;
+	width: 395px;
+	margin: 0px;
+	padding: 0px;
+}
+
+
+#wrap2 {
+	margin: 0px;
+	padding: 5px;
+	width: 960px;
+	height: 1024px;
+	background-position: center top;
+}
+#wrap3 {
+	margin: 0px;
+	padding: 5px;
+	width: 960px;
+	height: 4000px;
+	background-position: center top;
+	background-attachment: scroll;
+	background-color: #FFF;
+}
+.link1 {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	color: #999999;
+	text-align: left;
+	text-indent: 20px;
+}
+#wrap3 #txtSpaceFavourites #favtxt p a {
+	color: #09F;
+	text-decoration: none;
+	text-indent: 60px;
+}
+#webDesign {
+	background-image: url(images/emmas-interface_web_03.gif);
+	margin: 0px;
+	padding: 0px;
+	height: 500px;
+	width: 744px;
+	background-repeat: no-repeat;
+}
+#wrapgd {
+	margin: 0px;
+	padding: 5px;
+	width: 960px;
+	height: 960px;
+	background-position: center top;
+	background-attachment: scroll;
+	background-color: #FFF;
+}
+#sidebargd {
+	float: right;
+	height: 340px;
+	width: 216px;
+	padding-top: 17px;
+	background-image: url(images/sideFace.jpg);
+}
+#txtSpaceWeb {
+	float: left;
+	height: 700px;
+	width: 744px;
+	background-image: url(images/emmas-interfaceweb%20copy.jpg);
+	background-repeat: no-repeat;
+	padding-top: 100px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+#txtSpacePhoto {
+	float: left;
+	height: 700px;
+	width: 744px;
+	padding-top: 50px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+#wrapgPh {
+	margin: 0px;
+	padding: 5px;
+	width: 960px;
+	height: 980px;
+	background-attachment: scroll;
+	background-color: #FFF;
+}
+#txtSpaceAnimation {
+	float: left;
+	height: 960px;
+	width: 744px;
+	background-image: url(images/animation_03.gif);
+	background-repeat: no-repeat;
+	padding-top: 100px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+#wrapA {
+	margin: 0px;
+	padding: 5px;
+	width: 960px;
+	height: 1250px;
+	background-position: center top;
+	background-attachment: scroll;
+	background-color: #FFF;
+}
+#wrapPortfolio {
+	margin: 0px;
+	padding: 5px;
+	width: 960px;
+	height: 3900px;
+	background-position: center top;
+	background-attachment: scroll;
+	background-color: #FFF;
+	text-align: center;
+}
+
+}
+#wrap4 {
+	margin: 0px;
+	padding: 5px;
+	width: 960px;
+	height: 1700px;
+	background-position: center top;
+}
+#wrap4 #txtSpaceHome p .link2 {
+	color: #09F;
+	text-decoration: none;
+}
+#txtSpaceHome2 {
+	float: right;
+	height: 1460px;
+	width: 744px;
+	background-image: url(images/homecontent);
+	text-align: left;
+	text-indent: 13px;
+	background-repeat: no-repeat;
+	color: #0099FF;
+	text-decoration: none;
+}
+#wrap4 #txtSpaceHome2 p .link2 {
+	color: #09F;
+	text-decoration: none;
+}
+#wrapHome {
+	margin: 0px;
+	padding: 5px;
+	width: 960px;
+	height: 1700px;
+	background-position: center top;
+}
+.link2 {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #0099FF;
+	text-align: left;
+	text-indent: 20px;
+	text-decoration: none;
+}
+body {
+	text-align: center;
+	vertical-align: middle;
+	background-position: center top;
+}
+#sidebar3 {
+	float: right;
+	height: 1024px;
+	width: 216px;
+	padding-top: 17px;
+	background-image: url(images/sideFace.jpg);
+	background-repeat: no-repeat;
+}
